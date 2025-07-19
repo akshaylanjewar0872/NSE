@@ -25,7 +25,7 @@
 
 ## 🙏 Acknowledgements
 - [MySQL Connector Python Documentation](https://dev.mysql.com/doc/connector-python/en/)
-- Python official documentation
+- [Python official documentation](https://docs.python.org/3/)
 
 ## ✨ Contributions
 - Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
