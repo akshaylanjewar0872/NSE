@@ -1,7 +1,7 @@
 # Insert Data from One Database to Another using Python
 
 ## Description:
- - This Python script inserts data from a table in one MySQL database (source_dba) to another database (target_dba) on the same server.
+ - This Python script inserts data from a table in one MySQL database to another database on the same server.
 
 ## ✅ Features:
 - Takes table name as input
@@ -24,7 +24,7 @@
 - This project is licensed under the MIT License – see the LICENSE file for details.
 
 ## 🙏 Acknowledgements
-- MySQL Connector Python Documentation
+- [MySQL Connector Python Documentation](https://dev.mysql.com/doc/connector-python/en/)
 - Python official documentation
 
 ## ✨ Contributions
